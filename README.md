@@ -44,8 +44,9 @@ O projeto utiliza o universo dos Beatles como domínio para experimentar conceit
 
 ## 🧠 Abordagem
 
-O processo de construção pode ser representado por:
+O processo de construção pode ser representado por :
 
+```text
 Fontes
    ↓
 NotebookLM
@@ -62,6 +63,8 @@ Documentação em Markdown
    ↓
 Base de Conhecimento
 
+```
+
 O objetivo não foi apenas gerar respostas com IA, mas transformar informações 
 dispersas em um conjunto de documentos estruturados e reutilizáveis.
 
@@ -71,36 +74,36 @@ dispersas em um conjunto de documentos estruturados e reutilizáveis.
 
 O repositório está organizado em diferentes documentos temáticos.
 
-### 🎸 Os Quatro Beatles
+🎸 Os Quatro Beatles
 
 Conteúdo dedicado aos integrantes da banda e seus respectivos papéis na trajetória 
 do grupo.
 
-### 📀 Discografia Completa
+📀 Discografia Completa
 
 Organização da produção musical da banda e sua evolução ao longo dos anos.
 
-### ⭐ Discografia em 5 Álbuns Essenciais
+⭐ Discografia em 5 Álbuns Essenciais
 
 Seleção que permite compreender diferentes momentos da evolução artística e musical.
 
-### 📊 Estatísticas da Discografia
+📊 Estatísticas da Discografia
 
 Informações quantitativas e estruturadas relacionadas à produção musical.
 
-### 💡 Fatos Essenciais
+💡 Fatos Essenciais
 
 Informações relevantes para compreensão da trajetória e importância histórica da banda.
 
-### 🗓️ Linha do Tempo Cronológica
+🗓️ Linha do Tempo Cronológica
 
 Organização dos principais acontecimentos em sequência temporal.
 
-### 🌍 Legado
+🌍 Legado
 
 Conteúdo dedicado ao impacto e à influência da banda após sua trajetória como grupo.
 
-### 🎶 Lançamentos Pós-Separação
+🎶 Lançamentos Pós-Separação
 
 Registro de lançamentos relacionados ao período posterior ao encerramento das 
 atividades da banda.
@@ -109,6 +112,7 @@ atividades da banda.
 
 ## 📂 Estrutura do Repositório
 
+```text
 Beatles---Notebbok---Dio/
 │
 ├── Curiosidades Básicas.md
@@ -119,5 +123,87 @@ Beatles---Notebbok---Dio/
 ├── Lançamentos Pós-Separação.md
 ├── Legado Imediato.md
 ├── Linha do Tempo Cronológica.md
+
+```
+
+---
+
+## ## 🤖 Uso do NotebookLM
+
+O **Google NotebookLM** foi utilizado como ferramenta de apoio ao processo de pesquisa 
+e organização do conhecimento.
+
+A experiência permitiu explorar recursos relacionados a :
+
+- Consulta baseada em fontes
+- Síntese de informações
+- Organização temática
+- Exploração de documentos
+- Identificação de relações entre conteúdos
+- Apoio à construção de material estruturado
+
+A Inteligência Artificial foi utilizada como ferramenta de apoio à pesquisa e à 
+organização das informações, mantendo a análise e estruturação do projeto como parte 
+fundamental do processo.
+
+---
+
+## 💡 Competências Demonstradas
+
+- Inteligência Artificial Generativa
+- Google NotebookLM
+- Knowledge Management
+- Pesquisa assistida por IA
+- Organização de conhecimento
+- Documentação técnica
+- Markdown
+- Síntese de informações
+- Estruturação hierárquica de conteúdo
+- Curadoria de informações
+- Git e GitHub
+
+---
+
+## 🎓 Contexto Acadêmico
+
+Projeto desenvolvido como desafio da **DIO — Digital Innovation One**, utilizando 
+o Google NotebookLM como principal ferramenta tecnológica.
+
+O desafio proporcionou uma experiência prática de utilização de IA Generativa para 
+pesquisa e organização de conhecimento a partir de um domínio específico.
+
+A música foi escolhida como domínio de aplicação, permitindo unir experimentação 
+tecnológica e pesquisa sobre história musical.
+
+---
+
+## 🚀 Possíveis Evoluções
+
+A base de conhecimento construída neste projeto poderia servir como ponto de partida 
+para novas experiências envolvendo IA, como:
+
+- Busca semântica
+- Sistema RAG
+- Assistente especializado em história da música
+- Pesquisa conversacional sobre a base
+- Embeddings
+- Banco vetorial
+- Visualização interativa de cronologia
+- Exploração de relações entre artistas, álbuns e períodos
+
+---
+
+## 👨‍💻 Autor
+
+**Marcus Guedes**
+
+Marketing | Data Science | Inteligência Artificial | Gestão de Projetos
+
+GitHub: MCLG1661  
+LinkedIn: Marcus Guedes
+
+---
+
+🎵 **Música como domínio. IA como ferramenta. Conhecimento como resultado.**
 ├── Os Quatro Beatles.md
 └── README.md
