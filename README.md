@@ -1,22 +1,27 @@
+# 🎵 The Beatles — Knowledge Base com NotebookLM
+
+*Pesquisa, organização do conhecimento e IA Generativa aplicada à história da música*
+
 ![Beatles](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQWM3j-cskGJI6GUTpRua5QZQJb6US1R2oQ&s)
 
-# The Beatles: Revolução Musical
-Bootcamp: [Nome do Bootcamp da DIO]  
-Data: [Data da entrega]
+![NotebookLM](https://img.shields.io/badge/Google-NotebookLM-4285F4?logo=google&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-Knowledge%20Research-8A2BE2)
+![Knowledge Management](https://img.shields.io/badge/Knowledge-Management-2E8B57)
+![Markdown](https://img.shields.io/badge/Markdown-Documentation-000000?logo=markdown)
+![DIO](https://img.shields.io/badge/DIO-Project-5A0FC8)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
-NotebookLM: https://notebooklm.google.com/notebook/35cc033d-69d7-4de5-b58d-da24207b39b7
+Este projeto foi desenvolvido como parte de um desafio da **DIO — Digital Innovation One**, 
+utilizando o **Google NotebookLM** como ferramenta principal para pesquisa, organização 
+e exploração de uma base de conhecimento.
 
-Este projeto foi desenvolvido como parte do desafio da DIO (Digital Innovation One) utilizando o Google NotebookLM como ferramenta principal de pesquisa.
-O objetivo é uma análise completa da trajetória, evolução musical e impacto cultural da banda mais influente da história.
+O tema escolhido foi **The Beatles**, permitindo combinar tecnologia e música em um 
+experimento de organização de conhecimento assistida por Inteligência Artificial.
 
-![DIO-Desafio](https://img.shields.io/badge/DIO-Desafio-8A2BE2?style=for-the-badge)
-![NotebookLM-Google](https://img.shields.io/badge/NotebookLM-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![The Beatles](https://img.shields.io/badge/The_Beatles-1962--1970-FF0000?style=for-the-badge&logo)
-![GitHub](https://img.shields.io/badge/PLATAFORMA-GitHub-black)
-![Status](https://img.shields.io/badge/STATUS-CONCLUÍDO-green)
+O resultado é uma base estruturada que reúne informações sobre trajetória, integrantes, 
+discografia, evolução musical, cronologia e legado da banda.
 
-
-# Os Beatles não foram apenas uma banda; foram um fenômeno cultural que redefiniu a música popular no século XX !
+I Os Beatles não foram apenas uma banda; foram um fenômeno cultural que redefiniu a música popular no século XX !I
 
 # 📁 Estrutura de Arquivos
 
