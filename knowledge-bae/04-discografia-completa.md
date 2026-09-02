@@ -299,7 +299,7 @@ We Can Work It Out / Day Tripper (3 de dezembro)
 1966
 Paperback Writer / Rain (10 de junho)
 Eleanor Rigby / Yellow Submarine (5 de agosto)
-Strawberry Fields Forever / Penny Lane (17 de fevereiro de 1967)
+Strawberry Fields Forever / Penny Lane (17 de fevereiro de 1967) 
 
 1967
 All You Need Is Love / Baby, You're a Rich Man (7 de julho)
