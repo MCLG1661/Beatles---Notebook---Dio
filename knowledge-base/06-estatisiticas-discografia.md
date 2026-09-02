@@ -1,7 +1,7 @@
 Números totais:
 Álbuns de estúdio: 13 (UK), 17 (US originais)
 
-Singles: 22 singles oficiais no UK
+Singles: 22 singles oficiais no UK 
 
 EPs: 13 no UK
 
