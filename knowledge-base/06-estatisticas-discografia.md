@@ -5,7 +5,7 @@ Singles: 22 singles oficiais no UK
 
 EPs: 13 no UK
 
-Músicas gravadas: Aproximadamente 213 oficialmente lançadas
+Músicas gravadas: Aproximadamente 213 oficialmente lançadas 
 
 Álbuns ao vivo: 4 (The Beatles at the Hollywood Bowl, etc.)
 
