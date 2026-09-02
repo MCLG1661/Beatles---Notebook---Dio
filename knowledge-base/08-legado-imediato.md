@@ -9,3 +9,4 @@ Influência:
 Modelo para todas as boy bands posteriores
 Revolucionaram a produção musical em estúdio
 Mostraram que músicos pop poderiam ser artistas sérios
+ 
